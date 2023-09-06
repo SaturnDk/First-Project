@@ -47,10 +47,12 @@
  
 }
 
+
 .saturn { 
     grid-column: 2 / 3;
     grid-row: 3 / 4;
     align-self: end;
+    
     }
 
 .venus {
@@ -62,6 +64,7 @@
 .mars {
     grid-column: 3 / 4;
     grid-row: 3 / 4;
+    
 }
 
 .neptune {
@@ -101,11 +104,11 @@
 
 #SaturnSubmit 
 {
-    background-color: green;
+    background-color: aqua;
 }
 
 #JupiterSubmit {
-    background-color: red;
+    background-color: aqua;
 }
 
 .SubmitSection {
